@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjerciciosAlumnos. Ejercicios1",
+            "request": "launch",
+            "mainClass": "ejerciciosalumnos.Ejercicio1.App",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio6",
             "request": "launch",
             "mainClass": "ejercicio6.Ejercicio6",
